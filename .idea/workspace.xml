@@ -2,24 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4741d1c2-a06c-4842-bc02-e8f365f9183c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/python/6034.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/6035.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/6036.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/6037.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/6038.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/6039.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/6040.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/6041.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/6042.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/6043.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/6044.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/6045.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/6046.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/6047.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/6048.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/6049.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/6050.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/6050.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/6050.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,29 +41,7 @@
       <recent name="C:\Users\appla\Desktop\practice\Codeup\python" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.6049">
-    <configuration name="6045" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Codeup" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/6045.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.6050">
     <configuration name="6046" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Codeup" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -168,13 +130,35 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="6050" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Codeup" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/6050.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.6050" />
         <item itemvalue="Python.6049" />
         <item itemvalue="Python.6048" />
         <item itemvalue="Python.6047" />
         <item itemvalue="Python.6046" />
-        <item itemvalue="Python.6045" />
       </list>
     </recent_temporary>
   </component>
@@ -192,7 +176,7 @@
       <workItem from="1626362446438" duration="5736000" />
       <workItem from="1626416717841" duration="1768000" />
       <workItem from="1626421650393" duration="3304000" />
-      <workItem from="1626616235797" duration="4946000" />
+      <workItem from="1626616235797" duration="4990000" />
     </task>
     <task id="LOCAL-00001" summary="6107">
       <created>1625993412337</created>
@@ -229,7 +213,14 @@
       <option name="project" value="LOCAL" />
       <updated>1626425380016</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="2021.07.18 코드업 6048">
+      <created>1626621230488</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1626621230488</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -240,7 +231,8 @@
     <MESSAGE value="2021.07.16 코드업 첫 주석 수정" />
     <MESSAGE value="2021.07.16 코드업 6027" />
     <MESSAGE value="2021.07.16 코드업 6033" />
-    <option name="LAST_COMMIT_MESSAGE" value="2021.07.16 코드업 6033" />
+    <MESSAGE value="2021.07.18 코드업 6048" />
+    <option name="LAST_COMMIT_MESSAGE" value="2021.07.18 코드업 6048" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Codeup$6018.coverage" NAME="6018 Coverage Results" MODIFIED="1626365497832" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python" />
