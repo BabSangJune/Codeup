@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4741d1c2-a06c-4842-bc02-e8f365f9183c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/python/6068.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/6069.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/6070.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/6071 미완.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python/6067 미완성.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/6067.py" afterDir="false" />
-    </list>
+    <list default="true" id="4741d1c2-a06c-4842-bc02-e8f365f9183c" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,7 +26,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/python" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../SSAFY" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -207,6 +200,7 @@
       <workItem from="1626682022444" duration="2300000" />
       <workItem from="1626764813356" duration="21000" />
       <workItem from="1626798346890" duration="1132000" />
+      <workItem from="1626871128866" duration="10000" />
     </task>
     <task id="LOCAL-00001" summary="6107">
       <created>1625993412337</created>
