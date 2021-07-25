@@ -18,29 +18,29 @@
 """
 
 # for 문
-num = int(input())
-#일단 몇번 더했는지 저장할 변수
-cnt_num = 0
-#누적합 저장 할 변수
-tot_num = 0
-
-for nums in range(1, num+1): #1~num까지
-    tot_num += nums
-    cnt_num += 1
-    if tot_num >= num: #tot_num이 입력한 num보다 작거나 같으면
-        print(cnt_num) #출력하고
-        break #스톱
-
-#while문
 # num = int(input())
+# #일단 몇번 더했는지 저장할 변수
 # cnt_num = 0
+# #누적합 저장 할 변수
 # tot_num = 0
 #
-# while tot_num < num:
-#     cnt_num += 1 #이게 밑으로가면 0부터 더해서 11이 나옴 주의
-#     tot_num += cnt_num
-#
-# print(cnt_num)
+# for nums in range(1, num+1): #1~num까지
+#     tot_num += nums
+#     cnt_num += 1
+#     if tot_num >= num: #tot_num이 입력한 num보다 작거나 같으면
+#         print(cnt_num) #출력하고
+#         break #스톱
+
+#while문
+num = int(input())
+cnt_num = 0
+tot_num = 0
+
+while tot_num < num:
+    cnt_num += 1 #이게 밑으로가면 0부터 더해서 11이 나옴 주의
+    tot_num += cnt_num
+
+print(cnt_num)
 
 """
 참고

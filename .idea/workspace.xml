@@ -1,26 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4741d1c2-a06c-4842-bc02-e8f365f9183c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/python/6072.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/6073.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/6074.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/6075.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/6076.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/6077.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/6078 for 문으로 못했음 해보기.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/6079.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/6080.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/6081.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/6082.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/6083 모범답안으로.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/6084.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/6085.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/6086.py" afterDir="false" />
+    <list default="true" id="4741d1c2-a06c-4842-bc02-e8f365f9183c" name="Default Changelist" comment="2021.07.25_codeup_python_6085">
+      <change afterPath="$PROJECT_DIR$/python/6087.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/6088.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/6089.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/6090.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/6091.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python/6064.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/6064.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python/6070.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/6070.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python/6071 미완.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/6071.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/6079.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/6079.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/6086 안함.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/6086.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,8 +47,8 @@
       <recent name="C:\Users\appla\Desktop\practice\Codeup\python" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.6079">
-    <configuration name="6068" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.6090">
+    <configuration name="6086" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Codeup" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -72,7 +61,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="C:\Users\appla\Desktop\practice\Codeup\python\6068.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\appla\Desktop\practice\Codeup\python\6086.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -81,7 +70,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="6079" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="6087" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Codeup" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -94,7 +83,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/6079.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/6087.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -103,7 +92,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="6083 모범답안으로 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="6088" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Codeup" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -116,7 +105,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/6083 모범답안으로.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/6088.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -125,7 +114,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="6083 모범답안으로" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="6089" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Codeup" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -138,7 +127,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="C:\Users\appla\Desktop\practice\Codeup\python\6083 모범답안으로.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/6089.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -147,7 +136,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="6084" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="6090" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Codeup" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -160,29 +149,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/6084.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="6085" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Codeup" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/6085.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/6090.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -193,11 +160,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.6079" />
-        <item itemvalue="Python.6085" />
-        <item itemvalue="Python.6084" />
-        <item itemvalue="Python.6083 모범답안으로 (1)" />
-        <item itemvalue="Python.6083 모범답안으로" />
+        <item itemvalue="Python.6090" />
+        <item itemvalue="Python.6089" />
+        <item itemvalue="Python.6088" />
+        <item itemvalue="Python.6087" />
+        <item itemvalue="Python.6086 안함" />
       </list>
     </recent_temporary>
   </component>
@@ -221,7 +188,8 @@
       <workItem from="1626764813356" duration="21000" />
       <workItem from="1626798346890" duration="1132000" />
       <workItem from="1626871128866" duration="10000" />
-      <workItem from="1627136138729" duration="16084000" />
+      <workItem from="1627136138729" duration="16268000" />
+      <workItem from="1627187578195" duration="4039000" />
     </task>
     <task id="LOCAL-00001" summary="6107">
       <created>1625993412337</created>
@@ -279,7 +247,14 @@
       <option name="project" value="LOCAL" />
       <updated>1626626694963</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="2021.07.25_codeup_python_6085">
+      <created>1627152355096</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1627152355096</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -293,7 +268,8 @@
     <MESSAGE value="2021.07.18 코드업 6048" />
     <MESSAGE value="2021.07.19 코드업 6051" />
     <MESSAGE value="2021.07.19 코드업 6067 문제 입력만" />
-    <option name="LAST_COMMIT_MESSAGE" value="2021.07.19 코드업 6067 문제 입력만" />
+    <MESSAGE value="2021.07.25_codeup_python_6085" />
+    <option name="LAST_COMMIT_MESSAGE" value="2021.07.25_codeup_python_6085" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Codeup$6041.coverage" NAME="6041 Coverage Results" MODIFIED="1626618981178" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python" />
@@ -303,14 +279,18 @@
     <SUITE FILE_PATH="coverage/Codeup$6059.coverage" NAME="6059 Coverage Results" MODIFIED="1626623492967" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python" />
     <SUITE FILE_PATH="coverage/Codeup$6077.coverage" NAME="6077 Coverage Results" MODIFIED="1627141284016" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python" />
     <SUITE FILE_PATH="coverage/Codeup$6083___1_.coverage" NAME="6083 모범답안으로 (1) Coverage Results" MODIFIED="1627150956270" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python" />
+    <SUITE FILE_PATH="coverage/Codeup$6087.coverage" NAME="6087 Coverage Results" MODIFIED="1627189286024" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python" />
     <SUITE FILE_PATH="coverage/Codeup$6019.coverage" NAME="6019 Coverage Results" MODIFIED="1626365895192" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python" />
+    <SUITE FILE_PATH="coverage/Codeup$6086_.coverage" NAME="6086 안함 Coverage Results" MODIFIED="1627188576793" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python" />
     <SUITE FILE_PATH="coverage/Codeup$6084.coverage" NAME="6084 Coverage Results" MODIFIED="1627151444544" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python" />
     <SUITE FILE_PATH="coverage/Codeup$6078_for_____1_.coverage" NAME="6078 for 문으로 못했음 해보기 (1) Coverage Results" MODIFIED="1627144218402" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python" />
     <SUITE FILE_PATH="coverage/Codeup$6022.coverage" NAME="6022 Coverage Results" MODIFIED="1626366888341" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python" />
     <SUITE FILE_PATH="coverage/Codeup$6028.coverage" NAME="6028 Coverage Results" MODIFIED="1626421863235" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python" />
     <SUITE FILE_PATH="coverage/Codeup$6072.coverage" NAME="6072 Coverage Results" MODIFIED="1627136896893" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python" />
     <SUITE FILE_PATH="coverage/Codeup$6075.coverage" NAME="6075 Coverage Results" MODIFIED="1627138156715" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python" />
+    <SUITE FILE_PATH="coverage/Codeup$6089.coverage" NAME="6089 Coverage Results" MODIFIED="1627190928706" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python" />
     <SUITE FILE_PATH="coverage/Codeup$6081.coverage" NAME="6081 Coverage Results" MODIFIED="1627148785621" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python" />
+    <SUITE FILE_PATH="coverage/Codeup$6090.coverage" NAME="6090 Coverage Results" MODIFIED="1627190973007" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python" />
     <SUITE FILE_PATH="coverage/Codeup$6071_.coverage" NAME="6071 미완 Coverage Results" MODIFIED="1627136740372" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python" />
     <SUITE FILE_PATH="coverage/Codeup$6025.coverage" NAME="6025 Coverage Results" MODIFIED="1626368123422" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python" />
     <SUITE FILE_PATH="coverage/Codeup$6069.coverage" NAME="6069 Coverage Results" MODIFIED="1626799045808" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python" />
@@ -331,6 +311,7 @@
     <SUITE FILE_PATH="coverage/Codeup$6047.coverage" NAME="6047 Coverage Results" MODIFIED="1626620715063" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python" />
     <SUITE FILE_PATH="coverage/Codeup$6053.coverage" NAME="6053 Coverage Results" MODIFIED="1626621651290" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python" />
     <SUITE FILE_PATH="coverage/Codeup$6018.coverage" NAME="6018 Coverage Results" MODIFIED="1626365497832" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python" />
+    <SUITE FILE_PATH="coverage/Codeup$6088.coverage" NAME="6088 Coverage Results" MODIFIED="1627190357113" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python" />
     <SUITE FILE_PATH="coverage/Codeup$6076.coverage" NAME="6076 Coverage Results" MODIFIED="1627138330821" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python" />
     <SUITE FILE_PATH="coverage/Codeup$6082.coverage" NAME="6082 Coverage Results" MODIFIED="1627149296334" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python" />
     <SUITE FILE_PATH="coverage/Codeup$6024.coverage" NAME="6024 Coverage Results" MODIFIED="1626367873643" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python" />
@@ -358,7 +339,7 @@
     <SUITE FILE_PATH="coverage/Codeup$6080.coverage" NAME="6080 Coverage Results" MODIFIED="1627146899853" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python" />
     <SUITE FILE_PATH="coverage/Codeup$6062.coverage" NAME="6062 Coverage Results" MODIFIED="1626624583605" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python" />
     <SUITE FILE_PATH="coverage/Codeup$6044.coverage" NAME="6044 Coverage Results" MODIFIED="1626619607254" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python" />
-    <SUITE FILE_PATH="coverage/Codeup$6079.coverage" NAME="6079 Coverage Results" MODIFIED="1627152197169" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python" />
+    <SUITE FILE_PATH="coverage/Codeup$6079.coverage" NAME="6079 Coverage Results" MODIFIED="1627188565164" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python" />
     <SUITE FILE_PATH="coverage/Codeup$6021.coverage" NAME="6021 Coverage Results" MODIFIED="1626366454396" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python" />
     <SUITE FILE_PATH="coverage/Codeup$6085.coverage" NAME="6085 Coverage Results" MODIFIED="1627151776010" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python" />
     <SUITE FILE_PATH="coverage/Codeup$6038.coverage" NAME="6038 Coverage Results" MODIFIED="1626617881854" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python" />

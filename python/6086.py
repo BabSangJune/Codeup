@@ -31,11 +31,32 @@ print(s)
 출력 :
 66
 """
+#for
+# nums = int(input())
+# tot_num = 0
+#
+#
+# for num in range(0, nums+2):
+#     tot_num += num
+#     if tot_num >= nums:
+#         break
+# print(tot_num)
+
+#while
+
+nums = int(input())
+tot_num = 0
+cnt_num = 0
+
+while tot_num < nums:
+    cnt_num += 1
+    tot_num += cnt_num
+
+print(tot_num)
 
 
 
 """
 참고
-조건문이나 반복문의 코드블록 안에서 break 가 실행되면,
-반복실행을 중단(break)하고, 가장 가까운 반복 블록의 밖으로 빠져나간다.
+
 """
